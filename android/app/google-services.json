@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604616938475",
+    "project_id": "mayurance-ac-services",
+    "storage_bucket": "mayurance-ac-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604616938475:android:d35180a192c2b16dbc7fae",
+        "android_client_info": {
+          "package_name": "com.example.mayurance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6CoHrJ1QsZJF7krOG8jeeml0qBV46-Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

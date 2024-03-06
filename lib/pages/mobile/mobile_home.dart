@@ -1,5 +1,6 @@
 import 'dart:developer';
 import 'package:flutter/material.dart';
+import 'package:mayurance/main.dart';
 import 'package:mayurance/pages/mobile/mobile_contact_me.dart';
 import 'package:mayurance/pages/mobile/mobile_education.dart';
 import 'package:mayurance/pages/mobile/mobile_experience.dart';

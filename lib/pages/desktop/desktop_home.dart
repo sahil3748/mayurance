@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mayurance/custom_widgets/custom_navigation_bar.dart';
 import 'package:mayurance/custom_widgets/custom_row.dart';
-import 'package:mayurance/pages/splash_screen.dart';
+import 'package:mayurance/main.dart';
 import 'package:provider/provider.dart';
 import 'package:show_up_animation/show_up_animation.dart';
 import '../../utils/const.dart';
